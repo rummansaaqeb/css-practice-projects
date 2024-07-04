@@ -1,0 +1,21 @@
+h3{
+    font-size: larger;
+}
+p{
+    background-color: aqua  ;
+}
+#text-color{
+    color: orange;
+}
+#text-alignment{
+    text-align: right;
+}
+#font-size{
+    font-size: larger;
+}
+#font-family{
+    font-family: 'Courier New', Courier, monospace;
+}
+#font-styles{
+    font-style: italic;
+}
