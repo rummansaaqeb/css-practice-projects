@@ -1,0 +1,55 @@
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#purple{
+    background-color: purple;
+}
+#tire{
+    color: black;
+    border: solid black;
+    height: 100px; width: 100px;
+    background-image: url(../Images/tire.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#greenery{
+    color: white;
+    border: solid black;
+    height: 100px; width: 100px;
+    background-image: url(../Images/greenery.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#library{
+    color: white;
+    border: solid black;
+    height: 100px; width: 100px;
+    background-image: url(../Images/library.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#charcoal{
+    color: white;
+    border: solid black;
+    height: 100px; width: 100px;
+    background-image: url(../Images/charcoal.jpg);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+#sunflower{
+    color: white;
+    border: solid black;
+    height: 100px; width: 100px;
+    background-image: url(../Images/sunflower.jpg);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
